@@ -1,0 +1,60 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 1,
+        "NAME": "Dilhi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.632429,
+          77.218788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Kolkata",
+        "ID": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.572645,
+          88.363892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Mumbai",
+        "ID": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.075983,
+          72.877655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 4,
+        "NAME": "Bangalore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.971599,
+          77.594566
+        ]
+      }
+    }
+  ]
+}
